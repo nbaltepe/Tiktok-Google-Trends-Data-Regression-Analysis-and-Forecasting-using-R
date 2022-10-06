@@ -4,7 +4,7 @@ Copyright © 2022, Nazlı Ece Baltepe. Released under the GNU GPL 3.0 License.
 
 ** If you find this code useful and would like to use the code or the graphs in this repository in your work, please cite it. You can find the "Cite this repository" widget at the repo sidebar (below the "About" section) for an easy and correct citation in APA and Bibtex formats.
 
-An analysis of Google Trends on the keyword "tiktok". Data is accessed using gtrendsR package in R and forecasting is made by ARIMA.
+An analysis of Google Trends on the keyword "tiktok". Data is accessed using gtrendsR package in R, a polynomial regression analysis is conducted and forecasting is made with an ARIMA model.
 
 Programming Language: R
 
