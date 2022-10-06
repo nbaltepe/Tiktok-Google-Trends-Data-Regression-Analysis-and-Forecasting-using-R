@@ -1,11 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-references: 
-- type: software-code
 authors:
 - family-names: "Baltepe"
   given-names: "Nazlı Ece"
 title: "Tiktok-Google-Trends-Data-Regression-Analysis-and-Forecasting-using-R"
 version: 1.0.0
 date-released: 2022-10-04
-repository-code: "https://github.com/nbaltepe/Tiktok-Google-Trends-Data-Regression-Analysis-and-Forecasting-using-R"
+url: "https://github.com/nbaltepe/Tiktok-Google-Trends-Data-Regression-Analysis-and-Forecasting-using-R"
