@@ -1,6 +1,6 @@
 # Tiktok-Google-Trends-Data-Regression-Analysis-and-Forecasting-using-R
 
-Copyright © 2022, Nazlı Ece Baltepe. Released under the GNU GPL 3.0 License.
+Copyright © 2022, Nazlı Ece Baltepe. Released under the GPL-3.0 License.
 
 ** If you find this code useful and would like to use the code or the graphs in this repository in your work, please cite it. You can find the "Cite this repository" widget at the repo sidebar (below the "About" section) for an easy and correct citation in APA and Bibtex formats.
 
