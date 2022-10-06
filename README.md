@@ -5,7 +5,9 @@
 An analysis of Google Trends on the keyword "tiktok". Data is accessed using gtrendsR package in R and forecasting is made by ARIMA.
 
 Programming Language: R
+
 Used models: Polynomial regression model, ARIMA
+
 Used packages: forecast, gtrendsR, ggplot2, dplyr, caret, tidyverse, ISLR, broom, lubridate
 
 Tiktok is a short-form video hosting service which started a trend of increasing popularity during the pandemic. I am using Tiktok Google Trends data which was obtained via the gtrendsR package, pulling the Google Search trends for the keyword "tiktok" between 1 January 2019 to 2 October 2022. The analysis shows an  increased popularity of the app during the pandemic and onwards. 
